@@ -39,7 +39,7 @@
 
 ### 📌 Proyectos destacados
 
-- 🧾 [Kopo-Boletos](https://github.com/tuusuario/proyecto-laravel): Sistema web para venta de boletos de concierto
+- 🧾 [Kpop-Boletos](https://github.com/tuusuario/proyecto-laravel): Sistema web para venta de boletos de concierto
 - ⚛️ [Registro de biblioteca](https://github.com/tuusuario/proyecto-react): Aplicación con Hooks, componentes dinámicos y consumo de API
 
 ---
